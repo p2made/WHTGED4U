@@ -1,0 +1,13 @@
+PODS:
+  - JSONKit (1.5pre)
+  - MagicalRecord (2.1)
+
+DEPENDENCIES:
+  - JSONKit
+  - MagicalRecord
+
+SPEC CHECKSUMS:
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+  MagicalRecord: 64e7184c240087a45e9588a722eaf05b0ad837f7
+
+COCOAPODS: 0.20.2

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12E55" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Achievement" representedClassName="Achievement" syncable="YES">
+        <attribute name="benefit" attributeType="String" syncable="YES"/>
+        <attribute name="like" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="reference" attributeType="String" syncable="YES"/>
+        <attribute name="tweet" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="what" attributeType="String" syncable="YES"/>
+        <relationship name="tags" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Tag" inverseName="achievements" inverseEntity="Tag" syncable="YES"/>
+    </entity>
+    <entity name="Tag" representedClassName="Tag" syncable="YES">
+        <attribute name="sortValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tag" attributeType="String" syncable="YES"/>
+        <relationship name="achievements" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Achievement" inverseName="tags" inverseEntity="Achievement" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Achievement" positionX="160" positionY="192" width="128" height="150"/>
+        <element name="Tag" positionX="160" positionY="192" width="128" height="90"/>
+    </elements>
+</model>

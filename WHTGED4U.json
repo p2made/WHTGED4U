@@ -1,0 +1,1000 @@
+{
+    "created_at": "2013-06-28 04:44:27 UTC",
+    "count": 110,
+    "achievements": {
+        "publicinterest": {
+            "what": "Passed the Public Interest Disclosure Bill, protecting whistleblowers",
+            "tweet": "Passed the Public Interest Disclosure Bill, protecting whistleblowers",
+            "benefit": "This bill  establishes a framework to encourage and facilitate reporting of wrongdoing by public officials in the Commonwealth public sector; ensures that Commonwealth agencies properly investigate and respond to public interest disclosures; and provides protections to public officials who make qualifying public interest disclosures.",
+            "url": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r5027",
+            "tags": [
+                "whistleblowers"
+            ]
+        },
+        "watertrigger": {
+            "what": "Passed the “Water Trigger” Environment Protection and Biodiversity Conservation Amendment Bill 2013",
+            "tweet": "Passed the “Water Trigger” Bill",
+            "benefit": "Gives the Federal Government the ability to nix Coal mining and Coal Seam Gas “fracking” projects that may endanger water resources. Drought is the norm here in Australia, despite the recent few years of good rain, and coal is something best left in the ground according to leading climate scientists.",
+            "url": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r5001",
+            "tags": [
+                "environment"
+            ]
+        },
+        "space": {
+            "what": "Australia now has its first ever national Space Industry Policy as of April 2013",
+            "tweet": "Australia’s first ever national Space Industry Policy",
+            "benefit": "Public and private services associated with space technologies enable much of our day-to-day life. Satnavs, GPS enabled phones and mapping services like Google Earth, are becoming increasingly central to personal navigation and planning, and enable critical capabilities that underpin Australia’s economic security.",
+            "url": "http://www.space.gov.au",
+            "tags": [
+                "space",
+                "innovation"
+            ]
+        },
+        "NBN": {
+            "what": "The National Broadband Network — projected total cost $37.4b, Government contribution $30.4b",
+            "tweet": "The National Broadband Network",
+            "benefit": "Wiring up every house and business in Australia to super-fast broadband, without penalising those who live in the outback, has benefits for us all, many of which have not even been invented yet.",
+            "url": "http://www.nbnco.com.au",
+            "tags": [
+                "NBN",
+                "infrastructure"
+            ]
+        },
+        "BER": {
+            "what": "Building the Education Revolution — 7,920 schools: 10,475 projects completed with over a 97% satisfaction rate",
+            "tweet": "BER — 7,920 schools: 10,475 projects — 97% satisfaction rate",
+            "benefit": "As part of a national economic stimulus program, the Government chose to invest heavily in new facilities for schools right across the country.  This had the twin effect of both stimulating the economy, helping stave off the effects of the global financial crisis which swept through the rest of the world, while improving the lives of many hundreds of thousands of children right across Australia.",
+            "url": null,
+            "tags": [
+                "education"
+            ]
+        },
+        "Gonski": {
+            "what": "Gonski – Education funding reform",
+            "tweet": "Gonski – Education funding reform",
+            "benefit": "The Gonski reforms will ensure that all Australian schools get the funding they need to improve the educational outcomes for all young Australians, no matter where they live.",
+            "url": "http://igiveagonski.com.au/what-s-gonski/",
+            "tags": [
+                "education"
+            ]
+        },
+        "NDIS": {
+            "what": "National Disability Insurance Scheme — DisabilityCare",
+            "tweet": "National Disability Insurance Scheme — DisabilityCare",
+            "benefit": "Making sure all Australians have a place in our society by insuring against the onset of a disability.",
+            "url": "http://www.ndis.gov.au",
+            "tags": [
+                "NDIS"
+            ]
+        },
+        "MRRT": {
+            "what": "The Mineral Rent Resource Tax and aligned Petroleum Resource Rent Tax",
+            "tweet": "The Mineral Rent Resource Tax & aligned Petroleum Resource Rent Tax",
+            "benefit": "The mining boom was not being shared with all Australians effectively. Economic modelling by the Treasury as well as independent modelling by KPMG has found that the restructured mining tax could see the average worker gain about $450 a year, due to the flow-on results of cuts in company tax and tax breaks for small businesses.",
+            "url": "http://www.mining-tax.com.au",
+            "tags": [
+                "mining"
+            ]
+        },
+        "UN": {
+            "what": "Earned a seat on the United Nations Security Council",
+            "tweet": "Earned a seat on the UN Security Council",
+            "benefit": "Australia’s status as both an economic powerhouse and fair-player has been recognised by its inclusion on the UN’s Security Council. This benefits all Australians.",
+            "url": "http://www.un.org/en/sc/",
+            "tags": [
+                "UN",
+                "worldstage"
+            ]
+        },
+        "Kyoto": {
+            "what": "Ratified the Kyoto treaty",
+            "tweet": "Ratified the Kyoto treaty",
+            "benefit": "Australia was in danger of being regarded as an environmental pariah, making our exports less desirable, and our citizens less welcome around the world. By ratifying Kyoto, the Government showed the world that we are willing to be part of the solution, not just part of the problem.",
+            "url": "http://www.climatechange.gov.au/international/negotiations/history-negotiations/kyoto-protocol",
+            "tags": [
+                "environment",
+                "worldstage"
+            ]
+        },
+        "Bali": {
+            "what": "Signatory to the Bali Process and Regional Framework",
+            "tweet": "Signatory to the Bali Process and Regional Framework",
+            "benefit": "By signing up to the Bali Process and Regional Framework, Australia again demonstrated its willingness to tackle the scourge of human trafficking.",
+            "url": "http://www.baliprocess.net",
+            "tags": [
+                "worldstage"
+            ]
+        },
+        "workchoices": {
+            "what": "Eradicated WorkChoices",
+            "tweet": "Eradicated WorkChoices",
+            "benefit": "WorkChoices was manifestly unfair to both employees and to business owners, and was widely reviled across Australia. The Government eliminated this hated legislation.",
+            "url": "http://www.findlaw.com.au/faqs/1916/what-was-workchoices-and-why-was-it-so-unpopular.aspx",
+            "tags": [
+                "jobs",
+                "employment"
+            ]
+        },
+        "Fairwork": {
+            "what": "Established Fair Work Australia",
+            "tweet": "Established Fair Work Australia",
+            "benefit": "Fair Work Australia put in place a fair, balanced system that allowed workers to negotiate with employers in mediated dialogue, leading to fairer employment conditions for all Australians.",
+            "url": "http://www.fwc.gov.au",
+            "tags": [
+                "jobs",
+                "employment"
+            ]
+        },
+        "cleanenergyfuture": {
+            "what": "Established a price on carbon pollution which has already contributed to an 8.6% reduction in emissions from stationary energy since July last year",
+            "tweet": "Carbon price drove >8% emissions reduction since July 2012",
+            "benefit": "To meet its Kyoto obligations, and to effectively reduce carbon emissions from Australian activity, the Government instituted a price on carbon pollution, to be paid by the nation’s top emitters. It also restructured the tax base to ensure that most Australians were not financially disadvantaged.",
+            "url": "http://www.cleanenergyfuture.gov.au",
+            "tags": [
+                "environment",
+                "carbon"
+            ]
+        },
+        "parksandrec": {
+            "what": "Established a national network of reserves and parks",
+            "tweet": "Established a national network of reserves and parks",
+            "benefit": "Australians all love the outdoors, and our country has some of the world’s rarest and most endangered animals and plants.  The Government has ensured that our natural beauty will be there in the future for all Australians to enjoy.",
+            "url": "http://www.environment.gov.au/parks/nrs/",
+            "tags": [
+                "wilderness",
+                "environment"
+            ]
+        },
+        "marinepark": {
+            "what": "Created the world’s largest network of marine parks",
+            "tweet": "Created the world’s largest network of marine parks",
+            "benefit": "Fish stocks are being depleted world-wide. Australia has the largest coastline of any country, and leveraged this advantage for the benefit of all the world.",
+            "url": "http://www.environment.gov.au/marinereserves/",
+            "tags": [
+                "environment",
+                "fish"
+            ]
+        },
+        "ReefRescue": {
+            "what": "Introduced the Reef Rescue program",
+            "tweet": "Introduced the Reef Rescue program",
+            "benefit": "Reef Rescue represents a coordinated approach to environmental management in Australia and is the single largest commitment ever made to address the threats of declining water quality and climate change to the Great Barrier Reef World Heritage Area.",
+            "url": "http://www.nrm.gov.au/funding/reef-rescue/",
+            "tags": [
+                "environment"
+            ]
+        },
+        "apology": {
+            "what": "National apology to the indigenous people of Australia regarding the “stolen generations”",
+            "tweet": "National apology re the “stolen generations”",
+            "benefit": "The long-overdue apology honoured the Indigenous peoples of this land and reflected in particular on the mistreatment of those who were stolen from their homes under government policy, saying “For the pain, suffering and hurt of these Stolen Generations, their descendants and for their families left behind, we say sorry”.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/recognition-respect/apology-to-australias-indigenous-peoples",
+            "tags": [
+                "firstaustralians"
+            ]
+        },
+        "super": {
+            "what": "Increased superannuation contributions from 9% to 12%",
+            "tweet": "Increased superannuation contributions from 9% to 12%",
+            "benefit": "For most Australians, their Super is the only money they’ll have after their working life is over.  We are living longer, and we need to set more aside for a longer retirement.",
+            "url": "http://www.ato.gov.au/taxprofessionals/content.aspx?doc=/content/00245692.htm",
+            "tags": [
+                "super"
+            ]
+        },
+        "samesexcouples": {
+            "what": "Changed 85 laws to remove discrimination against same sex couples",
+            "tweet": "Changed 85 laws to remove discrimination against same sex couples",
+            "benefit": "Discrimination because of anyone’s sexuality is both unfair and also adds an economic burden on all Australians. All Australians need to be treated equally in the eyes of the law.",
+            "url": "http://glrl.org.au/index.php/Rights/Relationships/Overview-of-the-Same-Sex-Reforms",
+            "tags": [
+                "gay"
+            ]
+        },
+        "violence": {
+            "what": "Introduced a national plan to reduce violence against women and children",
+            "tweet": "Introduced national plan to reduce violence against women & children",
+            "benefit": "Women and children suffer violence far more often than adult men do, and this just has to stop.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/women/programs-services/reducing-violence/the-national-plan-to-reduce-violence-against-women-and-their-children",
+            "tags": [
+                "manup"
+            ]
+        },
+        "discrimination": {
+            "what": "Improved the Sex and Age Discrimination Act",
+            "tweet": "Improved the Sex & Age Discrimination Act",
+            "benefit": "Discrimination because of anyone’s gender or their age is unfair, and also adds an economic burden on all Australians. All Australians need to be treated equally in the eyes of the law.",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4459",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "ciggies": {
+            "what": "Introduced plain packaging of cigarettes",
+            "tweet": "Introduced plain packaging of cigarettes",
+            "benefit": "Smoking cigarettes is one of the worst things you can do for your health. Cigarettes themselves are addictive, and aggressively promoted, especially to young people, as being cool. Plain packaging is a bold experiment to try to curb this scourge.",
+            "url": "http://www.health.gov.au/internet/main/publishing.nsf/Content/tobacco-plain",
+            "tags": [
+                "smoking"
+            ]
+        },
+        "equalpay": {
+            "what": "Legislated equal pay for social and community workers, resulting in them receiving pay increases of up to 45%",
+            "tweet": "Equal pay for social & community workers, pay increases of up to 45%",
+            "benefit": "Social workers care for our society’s least advantaged people, and they were being paid dismally for their fine and difficult work.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/communities-and-vulnerable-people/grants-funding/fair-pay-for-social-and-community-services-workers",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "carerleave": {
+            "what": "Legislated Australia’s first paid parental leave scheme",
+            "tweet": "Legislated Australia’s first paid parental leave scheme",
+            "benefit": "Women and men alike were being forced out of the workforce, simply because they, or their partner was having a child. This legislation brings Australia into line with other first world nations, and is manifestly fairer.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/families-and-children/programs-services/paid-parental-leave-scheme",
+            "tags": [
+                "jobs",
+                "fairness"
+            ]
+        },
+        "renewable": {
+            "what": "Established a $10 billion renewable energy fund",
+            "tweet": "Established a $10 billion renewable energy fund",
+            "benefit": "It’s as obvious as the balls on a dog that there is no future in coal, and that Australia needs to radically overhaul its ageing energy infrastructure to remain competitive. Renewable energy is the future, and if we are to continue to prosper we need skin in that game.",
+            "url": "http://www.cleanenergyfuture.gov.au/clean-energy-future/our-plan/clean-energy-australia/#content01",
+            "tags": [
+                "renewables",
+                "environment"
+            ]
+        },
+        "murray": {
+            "what": "Legislated Murray/Darling Basin plan (finally, after one hundred years of trying.)",
+            "tweet": "Legislated Murray/Darling Basin plan",
+            "benefit": "The Murray Darling river system is sick. Use of vital fresh water has been mismanaged for many years. The Murray Darling plan is the first genuine attempt to fix that, for the benefit of all Australians.",
+            "url": "http://www.mdba.gov.au/about-mdba/governance/murray-darling-basin-agreement",
+            "tags": [
+                "environment"
+            ]
+        },
+        "edufund": {
+            "what": "Increased higher education funding by 50%",
+            "tweet": "Increased higher education funding by 50%",
+            "benefit": "Investment in Australian education had been underwhelming for years until these vital reforms.",
+            "url": "http://www.crikey.com.au/2013/04/15/get-fact-has-gillard-increased-uni-funding-by-50/",
+            "tags": [
+                "education"
+            ]
+        },
+        "directelect": {
+            "what": "Established direct electoral enrolment",
+            "tweet": "Established direct electoral enrolment",
+            "benefit": "Some people simply forget to enrol to vote, and so miss out come election day. Now the Government uses data from other departments to keep the electoral roll up to date; saving you time, and ensuring you never miss out.",
+            "url": "http://www.aec.gov.au/About_AEC/publications/Fact_Sheets/direct.htm",
+            "tags": null
+        },
+        "moreuni": {
+            "what": "Created 190,000 more University places",
+            "tweet": "Created 190,000 more University places",
+            "benefit": "A better educated population makes better choices about its collective future. Australian innovation is world-famous, and more places at Uni mean less chance of you or your kids’ missing out.",
+            "url": "http://minister.innovation.gov.au/craigemerson/mediareleases/pages/morekidsatuniversityandteachertraininggetsaboost.aspx",
+            "tags": [
+                "education"
+            ]
+        },
+        "computers": {
+            "what": "Funded a computer for every year 9 — 12 student",
+            "tweet": "Funded a computer for every year 9 — 12 student",
+            "benefit": "It’s impossible to overestimate the impact computers have had on education. Your kids deserve properly equipped schools and classrooms. This deal has expired now for grade 9 kids, but it was a fabulous boost at the time.",
+            "url": "http://deewr.gov.au/digital-education-advisory-group-report",
+            "tags": [
+                "education"
+            ]
+        },
+        "MySchool": {
+            "what": "Established the ‘My School’ program",
+            "tweet": "Established the ‘My School’ program",
+            "benefit": "A valuable tool for educators and communities to understand what is going on inside classrooms. The site’s greatest utility remains its power to spark the sort of conversations which lead to better outcomes for students.",
+            "url": "http://www.myschool.edu.au",
+            "tags": [
+                "education"
+            ]
+        },
+        "curriculum": {
+            "what": "Established a national curriculum",
+            "tweet": "Established a national curriculum",
+            "benefit": "For the first time education standards have been equalised between the states, allowing for more transferrable skills, and a higher degree of social mobility for all students.",
+            "url": "http://www.australiancurriculum.edu.au",
+            "tags": [
+                "education"
+            ]
+        },
+        "NAPLAN": {
+            "what": "Established the National Assessment Program for Literacy and Numeracy",
+            "tweet": "Established the National Assessment Program for Literacy & Numeracy",
+            "benefit": "The NAPLAN provides a way for governments, education authorities and schools to determine whether or not your kids are meeting their vital educational outcomes.",
+            "url": "http://www.nap.edu.au",
+            "tags": [
+                "education"
+            ]
+        },
+        "healthup": {
+            "what": "Increased health funding by 50%",
+            "tweet": "Increased health funding by 50%",
+            "benefit": "The Government increased healthcare spending by more than $20 billion, or 50%, from the previous Australian Health Care Agreement, with direct benefits to all Australians.",
+            "url": "http://www.health.gov.au/internet/ministers/publishing.nsf/Content/mr-yr09-nr-nr166.htm",
+            "tags": [
+                "health"
+            ]
+        },
+        "aged": {
+            "what": "Legislated the ‘Living Longer — Living Better’ aged care reforms",
+            "tweet": "Legislated the ‘Living Longer — Living Better’ aged care reforms",
+            "benefit": "We are all living longer, and caring for our elderly is what compassionate societies do. We’ll all benefit from these reforms if we live long enough.",
+            "url": "http://www.health.gov.au/internet/ministers/publishing.nsf/Content/mr-yr13-mb-mb039.htm",
+            "tags": [
+                "health"
+            ]
+        },
+        "mental": {
+            "what": "Legislated the National mental health reform package",
+            "tweet": "Legislated the National mental health reform package",
+            "benefit": "A stronger, more transparent, accountable, efficient and effective mental health system benefits all Australians, even those not suffering from a mental illness.",
+            "url": "http://www.health.gov.au/internet/main/publishing.nsf/Content/Mental+Health+and+Wellbeing-1",
+            "tags": [
+                "health"
+            ]
+        },
+        "dental": {
+            "what": "Legislated Dental Care package",
+            "tweet": "Legislated Dental Care package",
+            "benefit": "No-one likes having broken teeth, but too many Australians were avoiding their dentist due to expense. Now all Australians can smile with confidence.",
+            "url": "http://health.gov.au/internet/main/publishing.nsf/Content/dentalreform",
+            "tags": [
+                "health",
+                "dentistry"
+            ]
+        },
+        "headspace": {
+            "what": "Created 90 Headspace sites for young people with mental health issues",
+            "tweet": "Created 90 Headspace sites for young people with mental",
+            "benefit": "Mental health problems can ruin young lives, and the lives of everyone around them. By setting up a network of services across the country to support young people dealing with depression, substance abuse and other mental health issues, we all benefit.",
+            "url": "http://www.headspace.org.au",
+            "tags": [
+                "health",
+                "youth"
+            ]
+        },
+        "medicarelocals": {
+            "what": "Created the Medicare Locals program",
+            "tweet": "Created the Medicare Locals program",
+            "benefit": "We all benefit from this nation-wide network of primary health care organisations that supports health professionals, improves delivery of primary care services at a local level, and improves access to after hours primary care.",
+            "url": "http://www.yourhealth.gov.au/internet/yourhealth/publishing.nsf/Content/factsheet-gp-01",
+            "tags": [
+                "health"
+            ]
+        },
+        "aussiejobs": {
+            "what": "Created the Aussie Jobs package",
+            "tweet": "Created the Aussie Jobs package",
+            "benefit": "Three core strategies to create more jobs today, and to create skilled and rewarding jobs for the future.",
+            "url": "http://www.aussiejobs.innovation.gov.au/Pages/default.aspx",
+            "tags": [
+                "jobs",
+                "employment"
+            ]
+        },
+        "kickstart": {
+            "what": "Created the Kick-Start Initiative for apprentices",
+            "tweet": "Created the Kick-Start Initiative for apprentices",
+            "benefit": "An employer incentive designed to increase the number of Australian Apprenticeship commencements in skills shortage areas of the building and construction industries and in skills shortage engineering trades.",
+            "url": "http://www.australianapprenticeships.gov.au/program/apprentice-kickstart-initiative",
+            "tags": [
+                "jobs",
+                "employment"
+            ]
+        },
+        "newcar": {
+            "what": "Funded A New Car Plan for a Greener Future, providing vital industry support",
+            "tweet": "Funded A New Car Plan for a Greener Future",
+            "benefit": "A comprehensive plan to assist the car industry to invest in the technologies of tomorrow, bringing every player in the industry together in a partnership to reshape the industry and deliver enduring benefits to all Australians.",
+            "url": "http://www.innovation.gov.au/INDUSTRY/AUTOMOTIVE/INITIATIVESANDASSISTANCE/Pages/default.aspx",
+            "tags": [
+                "industry",
+                "innovation"
+            ]
+        },
+        "infrastructureaustralia": {
+            "what": "Created Infrastructure Australia",
+            "tweet": "Created Infrastructure Australia",
+            "benefit": "Infrastructure Australia brings major project developers and Government together to ensure that projects that are federally funded adhere to strict guidelines, and are in line with the nation’s priorities.",
+            "url": "http://www.infrastructureaustralia.gov.au",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "nationbuilding": {
+            "what": "Established a nation building program involving 350 major projects",
+            "tweet": "Nation building program — 350 major projects",
+            "benefit": "The biggest capital works program in Australian history, with huge investment in roads, rail, ports, and many other projects that directly contribute to Australian efficiency and productivity.",
+            "url": "http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "roads": {
+            "what": "Doubled the Federal Roads budget ($36b) resulting in 7,500km of improved roads",
+            "tweet": "Doubled the Federal Roads budget — 7,500km of improved roads",
+            "benefit": "The biggest capital works program in Australian history, doubled the road budget with more than 7,500 km of new and improved roads, targeting those that deliver the greatest safety and productivity benefits.",
+            "url": "http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "rail": {
+            "what": "Rebuilding ⅓ of our interstate rail freight network",
+            "tweet": "Rebuilding ⅓ of our interstate rail freight network",
+            "benefit": "4,000 kilometres of sturdy track that doesn’t buckle in the Australian heat, and replacing millions of decaying wooden sleepers with stable concrete ones. Combine this with additional passing loops and the elimination of steep curves, and rail is once again becoming a viable means of carrying freight.",
+            "url": "http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "morerail": {
+            "what": "Committed more to urban passenger rail than any government since Federation",
+            "tweet": "More urban passenger rail than any government since Federation",
+            "benefit": "Rail is safe, fast, and efficient, when used properly.  Getting cars off the roads means driving is safer for the rest of us.  Trains are cheaper to run, and are the backbone of many modern public transport systems.",
+            "url": "http://anthonyalbanese.com.au/ministerial",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "ports": {
+            "what": "Developed a National Ports Strategy",
+            "tweet": "Developed a National Ports Strategy",
+            "benefit": "Streamlining how goods get into, and leave the country is vital for Australian productivity. As an island nation, our ports are Australia’s gateway to the world. A nationally coordinated approach to the planning and development of port infrastructure is essential for Australia’s future economic growth.",
+            "url": "http://www.ntc.gov.au/viewpage.aspx?documentid=1967",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "landfreight": {
+            "what": "Developed a National Land Freight Strategy",
+            "tweet": "Developed a National Land Freight Strategy",
+            "benefit": "Australia is a large land mass far from its international markets. The ability to efficiently and reliably move goods through supply chains, particularly to and from these markets, substantially determines our productivity and economic performance.",
+            "url": "http://www.infrastructureaustralia.gov.au/freight/",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "aviationwhitepaper": {
+            "what": "Created Australia’s first ever Aviation White Paper",
+            "tweet": "Created Australia’s first ever Aviation White Paper",
+            "benefit": "The first ever comprehensive aviation policy statement issued by any Australian government, bringing together all strands of aviation policy into a single, forward-looking document providing planning, regulatory and investment certainty for the aviation industry out to 2020 and beyond.",
+            "url": "http://www.infrastructure.gov.au/aviation/nap/",
+            "tags": [
+                "innovation"
+            ]
+        },
+        "revship": {
+            "what": "Revitalised Australian Shipping",
+            "tweet": "Revitalised Australian Shipping",
+            "benefit": "The most significant overhaul of our coastal trading arrangements since they were introduced early last century, making transparent the decision making processes, which determine a foreign vessel’s participation in Australian domestic shipping.",
+            "url": "http://www.minister.infrastructure.gov.au/aa/speeches/2012/AS14_2012.aspx",
+            "tags": [
+                "infrastructure",
+                "innovation"
+            ]
+        },
+        "redreg": {
+            "what": "Reduced transport regulators from 23 to 3, saving $30b over 20 years",
+            "tweet": "Transport regulators down from 23 to 3, saving $30b over 20 years",
+            "benefit": "The Australian road transport industry employs more than 220,000 people and is a vital link between our factories and our cities, between our farms and mines, and our ports.",
+            "url": "http://anthonyalbanese.com.au/speech-to-the-national-conference-of-the-australian-livestock-and-rural-transport-association-the-pavilion-newcastle-jockey-club",
+            "tags": [
+                "efficiency"
+            ]
+        },
+        "ncis": {
+            "what": "Introduced the National Infrastructure Construction Schedule",
+            "tweet": "Introduced the National Infrastructure Construction Schedule",
+            "benefit": "The first-ever national government infrastructure project pipeline. A collaborative effort between the Commonwealth, state and territory governments, and local government, the NICS provides industry with information on major infrastructure projects committed by governments across the country in a dynamic, easy-to-use manner.",
+            "url": "https://www.nics.gov.au",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "oecdinf": {
+            "what": "Australia has moved from twentieth in 2007, to second in the OECD infrastructure ranking",
+            "tweet": "Australia up from 20th in 2007, to 2nd in OECD infrastructure ranking",
+            "benefit": "While other nations are suffering from their failures to invest in appropriate infrastructure, Australia has been future-proofing itself now, using the proceeds of its mining boom, to ensure it has long-term viability.",
+            "url": "http://www.logisticscareer.com.au/archived-news/australia-a-big-infrastructure-spender-finds-oecd",
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        "iimoty": {
+            "what": "Awarded International Infrastructure Minister of the Year (2012 Albanese)",
+            "tweet": "Minister @AlboMP International Infrastructure Minister of the Year",
+            "benefit": "International acclaim for our Government is something all Australians can be proud of.",
+            "url": "https://www.infrastructureinvestor.com/News_And_Analysis/2012/September/News/Albanese_is_our_Minister_of_the_Year/",
+            "tags": [
+                "worldstage"
+            ]
+        },
+        "itoty": {
+            "what": "Awarded International Finance Minister of the Year (2011 Swan)",
+            "tweet": "Treasurer @SwannyDPM — International Finance Minister of the Year",
+            "benefit": "International acclaim for our Government is something all Australians can be proud of. Under Swan’s watch the nation avoided the worst economic meltdown in the world’s history.",
+            "url": "http://www.euromoney.com/Article/2897778/Finance-minister-of-the-year-2011-Swan-confounds-his-domestic-sceptics.html",
+            "tags": [
+                "worldstage"
+            ]
+        },
+        "dumping": {
+            "what": "Introduced Anti-dumping and countervailing system reforms",
+            "tweet": "Introduced Anti-dumping and countervailing system reforms",
+            "benefit": "Australia has an export driven economy, and an anti—dumping system is the only means by which unfair market behaviour can be deterred at the global level.",
+            "url": "http://www.customs.gov.au/anti-dumping/streamlining.asp",
+            "tags": [
+                "jobs",
+                "trade"
+            ]
+        },
+        "householdassist": {
+            "what": "Legislated Household Assistance Package",
+            "tweet": "Legislated Household Assistance Package",
+            "benefit": "This provides ongoing increases to regular government payments for families, seniors, and individuals to commence between March 2013 and January 2014; improving the lives of tens of thousands of Australians.",
+            "url": "http://www.fahcsia.gov.au/household-assistance-package",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "schoolkidsbonus": {
+            "what": "Introduced the School Kids Bonus",
+            "tweet": "Introduced the School Kids Bonus",
+            "benefit": "Helps struggling families afford their education costs. The benefits are automatically paid in January and July each year to eligible families and students with no need to make a claim.",
+            "url": "http://www.humanservices.gov.au/customer/services/schoolkids-bonus",
+            "tags": [
+                "fairness",
+                "education"
+            ]
+        },
+        "childcareup": {
+            "what": "Increased the Childcare rebate",
+            "tweet": "Increased the Childcare rebate",
+            "benefit": "Working families sometimes need help securing appropriate childcare. This rebate helps them do that by covering up to 50% of your out of pocket child care expenses, up to a maximum amount per child per year, over and above any amount you already receive from Child Care Benefit and/or Jobs, Education and Training (JET) Child Care Fee Assistance.",
+            "url": "http://www.humanservices.gov.au/customer/services/centrelink/child-care-rebate",
+            "tags": [
+                "fairness",
+                "kids"
+            ]
+        },
+        "socialhousing": {
+            "what": "Allocated $6b to Social Housing (20,000 homes)",
+            "tweet": "Allocated $6b to Social Housing (20,000 homes)",
+            "benefit": "The Social Housing Initiative serves both to stimulate the economy, and create affordable housing for some of our least advantaged citizens.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/housing-support/programs-services/social-housing-initiative",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "homelessnesssupport": {
+            "what": "Provided $5b to Support for Homelessness",
+            "tweet": "Provided $5b to Support for Homelessness",
+            "benefit": "Can you even imagine being homeless? Can you imagine any circumstances that might render you homeless? It’s something that can happen to anyone. People who are homeless often find themselves between service systems. They have lost housing, cannot find work, may have chronic health conditions or been victims of repeated abuse or violence.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/housing-support/publications-articles/homelessness-general/homelessness-a-new-approach",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "affordablerent": {
+            "what": "Established National Rental Affordability Scheme ($4.5b)",
+            "tweet": "Established National Rental Affordability Scheme",
+            "benefit": "A long term commitment by the Australian Government in partnership with the States and Territories, to invest in affordable rental housing for low income families.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/housing-support/programs-services/national-rental-affordability-scheme",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "thegap": {
+            "what": "Introduced Closing the Gap to improve the lives of indigenous Australians",
+            "tweet": "Closing the Gap for indigenous Australians",
+            "benefit": "Many Indigenous Australians have a good standard of living, but far too many experience unacceptable levels of disadvantage in living standards, life expectancy, education, health, and employment. Life expectancy for Indigenous Australians is lower than the non-Indigenous population by approximately 11.5 years for males and 9.7 years for females. This gap must be closed.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/closing-the-gap",
+            "tags": [
+                "fairness",
+                "firstaustralians"
+            ]
+        },
+        "recon": {
+            "what": "Preparing a pathway for Constitutional recognition of Indigenous Australians",
+            "tweet": "Towards Constitutional recog. of Indigenous Australians",
+            "benefit": "The Australian Constitution is the foundation document for our laws and our government, but is silent on the special place of our first Australians. To build the momentum needed for successful constitutional change, on 13 February 2013, the House of Representatives passed the Aboriginal and Torres Strait Islander Peoples Recognition Bill 2012.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/recognition-respect/constitutional-recognition-of-indigenous-australians",
+            "tags": [
+                "firstaustralians"
+            ]
+        },
+        "penionsup": {
+            "what": "Provided the highest pension increase in 100 years",
+            "tweet": "Provided the highest pension increase in 100 years",
+            "benefit": "The most recent pension increase took effect from 20 March 2013. It resulted in an increase of $35.80 a fortnight for single pensioners and $54.00 a fortnight for pensioner couples combined on the maximum rate. This new system of indexation, along with the Government’s pension reform boosts, has delivered pension increases of around $207 per fortnight for single pensioners and around $236 per fortnight for pensioner couples combined, since September 2009.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/seniors/benefits-payments/more-pension-increases",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "newjobs900k": {
+            "what": "Created 900,000 new jobs",
+            "tweet": "Created 900,000 new jobs",
+            "benefit": "There are more Australians in work than ever before and our jobs growth is at least twice as fast as any of the major advanced economies. The Government has repeatedly funded programs that contribute to the creation of new jobs in Australia, allowing the skills of almost all Australians to be properly valued.",
+            "url": "http://ministers.deewr.gov.au/collins/address-australian-industry-group-personnel-and-ir-conference-canberra",
+            "tags": [
+                "jobs",
+                "employment"
+            ]
+        },
+        "jobsboard": {
+            "what": "Established the National Jobs Board",
+            "tweet": "Established the National Jobs Board",
+            "benefit": "In this highly mobile age it’s important to be able to look for work anywhere. The national jobs board allows employers to list jobs, and job-seekers to find them.",
+            "url": "http://jobsearch.gov.au",
+            "tags": [
+                "jobs",
+                "employment"
+            ]
+        },
+        "skillstrainingup": {
+            "what": "Allocated $9b for skills and training over 5 years",
+            "tweet": "Allocated $9b for skills and training over 5 years",
+            "benefit": "Gives more students the opportunity to earn the basic qualifications they need for a decent job in a higher-skills economy, and enables taxpayers to be assured of efficient and effective spending.",
+            "url": "http://www.startupsmart.com.au/planning/9-billion-overhaul-for-inadequate-skills-training-system/201203195717.html",
+            "tags": [
+                "education",
+                "jobs"
+            ]
+        },
+        "econ": {
+            "what": "Established Enterprise Connect for small business",
+            "tweet": "Established Enterprise Connect for small business",
+            "benefit": "Offers comprehensive, confidential advice and support to eligible Australian small and medium businesses to help them transform and reach their full potential.",
+            "url": "http://www.enterpriseconnect.gov.au/Pages/Home.aspx",
+            "tags": [
+                "smallbiz",
+                "jobs"
+            ]
+        },
+        "sbcom": {
+            "what": "Appointed Australia’s first Small Business Commissioner",
+            "tweet": "Appointed Australia’s first Small Business Commissioner",
+            "benefit": "The Commissioner provides information, assistance, advocacy and representation of small business interests within the Australian Government.",
+            "url": "http://www.innovation.gov.au/SMALLBUSINESS/SMALLBUSINESSCOMMISSIONER/Pages/default.aspx",
+            "tags": [
+                "smallbiz"
+            ]
+        },
+        "writeoffs": {
+            "what": "Introduced immediate write-off of assets costing less than $6,500 for small businesses",
+            "tweet": "Immediate write-off of assets costing < $6,500 for small businesses",
+            "benefit": "Enables eligible small businesses to write-off depreciating assets costing less than $6,500 in the income year in which they start to use the asset, or have it installed ready for use.",
+            "url": "http://www.ato.gov.au/content/00286865.htm",
+            "tags": [
+                "smallbiz"
+            ]
+        },
+        "writeoffcars": {
+            "what": "Introduced $5,000 immediate write-off for Small Business vehicles over $6,500",
+            "tweet": "$5,000 immediate write-off for Small Business vehicles > $6,500",
+            "benefit": "You can choose to use your small business’s capital allowance provisions to calculate the deduction for a motor vehicle costing $6,500 or more that you start to use, or have installed ready for use, for a taxable purpose.",
+            "url": "http://www.ato.gov.au/content/00307676.htm",
+            "tags": [
+                "smallbiz"
+            ]
+        },
+        "losscarry": {
+            "what": "Introduced Small business $1m loss carry-back for tax rebate from previous year",
+            "tweet": "Small business $1m loss carry-back for tax rebate from previous year",
+            "benefit": "To help generally profitable small companies going through a temporary downturn the Tax Office now allows them to ‘carry back’ losses of up to $1 million.",
+            "url": "http://www.mkttax.com.au/announcements/loss-carry-back-rules-announced",
+            "tags": [
+                "smallbiz"
+            ]
+        },
+        "consumerlaw": {
+            "what": "Legislated Australian Consumer law",
+            "tweet": "Legislated Australian Consumer law",
+            "benefit": "Standardised national laws that address unfair contract terms, guaranteeing consumer rights, product safety,  lay-by agreements, and unsolicited consumer agreements covering door-to-door sales and telephone sales.",
+            "url": "http://www.consumerlaw.gov.au",
+            "tags": [
+                "fairness"
+            ]
+        },
+        "queenslandrecovery": {
+            "what": "Introduced a national levy to assist Queensland with reconstruction",
+            "tweet": "Introduced national levy to assist Queensland with reconstruction",
+            "benefit": "We were all horrified by the recent floods in Brisbane and other Queensland towns, and saddened by the loss of life that resulted. We all pitched in to help (as Queensland failed to insure itself against the damage), because that’s what mates do. Yo, way to go.",
+            "url": "http://www.pm.gov.au/press-office/rebuilding-after-floods",
+            "tags": null
+        },
+        "floodstandard": {
+            "what": "Standardised national definition of flood for insurance purposes",
+            "tweet": "Standardised national definition of flood for insurance purposes",
+            "benefit": "We all know insurance companies will do almost anything they can to avoid paying up. Flood damage in particular was loosely defined and inconsistent, which allowed many insurers to skip out on payments. The Government put a stop to that.",
+            "url": "http://www.niba.com.au/html/40841.cfm",
+            "tags": null
+        },
+        "tourism2020": {
+            "what": "Created Tourism 2020",
+            "tweet": "Created Tourism 2020",
+            "benefit": "Australia’s tourism sector has been hit hard by the rise in the dollar, triggered largely by the mining boom. Also much of our tourism infrastructure is ageing. All that chintz in rural B&Bs springs to mind. Tourism 2020 assists tourism businesses to remain competitive into the future. If it could convince hotels to offer free wifi too, that’d help.",
+            "url": "http://www.ret.gov.au/tourism/policies/nltts/nltts/Pages/default.aspx",
+            "tags": [
+                "innovation"
+            ]
+        },
+        "hsrail": {
+            "what": "Completed Australia’s first feasibility study on high speed rail",
+            "tweet": "Australia’s first feasibility study on high speed rail",
+            "benefit": "Europe, Russia, Asia, Africa, Latin America and the USA all have comprehensive rail networks, so why don’t we? The Government finally decided to take a look at this, and who knows, maybe in 20 years or so, I can get a train to Sydney that doesn’t suck.",
+            "url": "http://www.infrastructure.gov.au/rail/trains/high_speed/index.aspx",
+            "tags": [
+                "innovation"
+            ]
+        },
+        "ESCAS": {
+            "what": "Established the Exporter Supply Chain Assurance Scheme to provide traceability and accountability for live animal exports",
+            "tweet": "ESCAS — traceability & accountability for live animal exports",
+            "benefit": "We all saw that Four Corners episode that brought home the horrors of the live animal export market. The Government responded by making it harder for unethical animal exporters to allow such cruelty to go on. Why? Because it was the right thing to do.",
+            "url": "http://www.daff.gov.au/aqis/export/live-animals/livestock/escas",
+            "tags": null
+        },
+        "royalcommircsa": {
+            "what": "Established a Royal Commission into Institutional Responses to Child Sexual Abuse",
+            "tweet": "Royal Commission into Institutional Responses to Child Sexual Abuse",
+            "benefit": "Some of our most vulnerable citizens have had their lives shattered by the very people in whose trust they were placed, with the churches, and other institutions conspiring in cover-ups. The Royal Commission will investigate where systems have failed to protect children, and make recommendations on how to improve laws, policies, and practices to prevent, and better respond to child sexual abuse in institutions.",
+            "url": "http://www.childabuseroyalcommission.gov.au",
+            "tags": null
+        },
+        "preventcrime": {
+            "what": "Established the National Crime Prevention Fund",
+            "tweet": "Established the National Crime Prevention Fund",
+            "benefit": "Crime costs Australians around $32 billion per year. The NCPF is a $40 million component of the Australian Government’s package of measures to address gang violence and street crime in the community.",
+            "url": "http://www.crimeprevention.gov.au",
+            "tags": null
+        },
+        "lowertaxes": {
+            "what": "Lowered personal income taxes. The average family now pays $3,500 less p.a. than in 2007",
+            "tweet": "Lowered personal income taxes",
+            "benefit": "The Government has put in place a series of major reforms to build a stronger, fairer, and simpler tax system that we all benefit from.",
+            "url": "http://www.futuretax.gov.au",
+            "tags": [
+                "fairness",
+                "efficiency"
+            ]
+        },
+        "taxfreethresh": {
+            "what": "Raised the tax-free threshold from $6,000 to $18,200",
+            "tweet": "Raised the tax-free threshold from $6,000 to $18,200",
+            "benefit": "This means if you earn less than $18,200 in a financial year, you do not need to pay income tax. If you earn more than $18,200 in a financial year, you will only pay income tax on your earnings over $18,200. Paradoxically this saves the Government millions too due to not having to process over a million small tax returns.",
+            "url": "http://www.ato.gov.au/individuals/content.aspx?doc=/content/00322113.htm",
+            "tags": [
+                "fairness",
+                "efficiency"
+            ]
+        },
+        "richestonearth": {
+            "what": "Australia is now the fifth richest per-capita nation in the known universe",
+            "tweet": "Australia is now the 5th richest per-capita nation in the known universe",
+            "benefit": "While most of the rest of the world was going backwards, we surged forwards, becoming the envy of the modern world. We’ve literally never had it so good.",
+            "url": "http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita",
+            "tags": null
+        },
+        "aaarating": {
+            "what": "For the first time ever Australia has three triple A credit ratings from all three credit agencies",
+            "tweet": "Australia has three AAA credit ratings from all three credit agencies",
+            "benefit": "A better rating means investment is more secure and our money is thus cheaper. Interest rates are lower, and our purchasing power is enhanced. It’s also another sign of just how well our economy has been managed by the Government.",
+            "url": "http://www.treasurer.gov.au/DisplayDocs.aspx?doc=pressreleases/2013/051.htm&pageID=003&min=wms&Year=&DocType=0",
+            "tags": [
+                "economy"
+            ]
+        },
+        "lowinfl": {
+            "what": "Record long-term low inflation rate",
+            "tweet": "Record long-term low inflation rate",
+            "benefit": "In Australia, the inflation rate measures a broad rise or fall in prices that consumers pay for a standard basket of goods. Historically, from 1951 until 2013, Australia’s Inflation Rate averaged 5.28% reaching an all time high of 23.90% in December of 1951.",
+            "url": "http://www.tradingeconomics.com/australia/inflation-cpi",
+            "tags": [
+                "economy"
+            ]
+        },
+        "lowinterest": {
+            "what": "Lowest interest rates in 60 years with the average mortgagee paying $5,000 less p.a. than in 2007",
+            "tweet": "Lowest interest rates in 60 years",
+            "benefit": "The benchmark interest rate in Australia was last recorded at 2.75%. Historically, from 1990 until 2013, Australia Interest Rate averaged 5.44% reaching an all time high of 17.5% in January 1990. This means it’s easier for businesses to borrow to invest, cheaper to invest in new housing and infrastructure, and the economy as a whole benefits.",
+            "url": "http://www.tradingeconomics.com/australia/interest-rate",
+            "tags": [
+                "economy"
+            ]
+        },
+        "lowunemployment": {
+            "what": "Record low unemployment",
+            "tweet": "Record low unemployment",
+            "benefit": "Under the current Government, more Australians are participating in the workforce now than ever before, meaning the nation as a whole is more productive, and we all have more disposable income.",
+            "url": "http://www.tradingeconomics.com/australia/unemployment-rate",
+            "tags": [
+                "economy",
+                "jobs"
+            ]
+        },
+        "lowdebtoedc": {
+            "what": "Lowest debt to GDP ratio in the OECD",
+            "tweet": "Lowest debt to GDP ratio in the OECD",
+            "benefit": "While money is cheap it makes sense to have debt, but a lower debt ratio leaves us better positioned the next time our public debt needs to go up. By borrowing when money was cheap, and funding a range of economic stimulus packages, the Government avoided the global economic crisis that ravaged much of the rest of the world.",
+            "url": "http://www.gfmag.com/component/content/article/119-economic-data/12370-public-debt-percentage-gdp.html#axzz2WNMe2tM2",
+            "tags": [
+                "economy"
+            ]
+        },
+        "tradeddollar": {
+            "what": "The Australian Dollar is now fifth most traded in the world and is an IMF Reserve Currency",
+            "tweet": "Aussie Dollar now 5th most traded in the world & IMF Reserve Currency",
+            "benefit": "Trade in a country’s currency is correlated to its level of international trade. The fact that our dollar is heavily traded indicates that our exports are highly valued. It connects Australians to bigger export markets. Also the more heavily a currency is traded, the more stable that currency becomes, meaning lower risk for foreign investors.",
+            "url": "http://www.rba.gov.au/mkt-operations/intl-mkt-oper.html",
+            "tags": [
+                "economy"
+            ]
+        },
+        "bestperf": {
+            "what": "One of the world’s best performing economies during and since the global financial crisis",
+            "tweet": "One of world’s strongest economies during & since the GFC",
+            "benefit": "While much of the world slid into economic chaos, the Australian economy continued to grow and Australians prospered.",
+            "url": "http://www.doingbusiness.org/rankings",
+            "tags": [
+                "economy"
+            ]
+        },
+        "lsr": {
+            "what": "Australia now highest ranked for low Sovereign Risk",
+            "tweet": "Australia now highest ranked for low Sovereign Risk",
+            "benefit": "International investors can invest with confidence in Australia, meaning that the cost of their investments here is lower than in other countries with higher sovereign risk.",
+            "url": "http://www.efic.gov.au/country/countryprofiles/Pages/countryprofiles.aspx",
+            "tags": [
+                "economy"
+            ]
+        },
+        "tight": {
+            "what": "Overseen the largest fiscal tightening in Australia’s history (4.4%)",
+            "tweet": "Overseen the largest fiscal tightening in Australia’s history",
+            "benefit": "The Government has remained committed to reining in expenditure, even during these good economic times.  This is just common sense. Thrift is good, even in boom times.",
+            "url": "http://www.switzer.com.au/business-news/news-stories/an-imf-view-of-the-australian-budget/",
+            "tags": [
+                "economy"
+            ]
+        },
+        "econgrow": {
+            "what": "21 years of continuous economic growth",
+            "tweet": "21 years of continuous economic growth",
+            "benefit": "The Australian economy has grown at a sustainable 3% per annum for the last 21 years. This is unparalleled anywhere in the world.",
+            "url": "http://www.treasurer.gov.au/wmsDisplayDocs.aspx?doc=economicnotes/2012/033.htm&pageID=012&min=wms&Year=&DocType=4",
+            "tags": [
+                "economy"
+            ]
+        },
+        "wagesgrowth": {
+            "what": "11 years of continuous wages growth exceeding CPI",
+            "tweet": "11 years of continuous wages growth exceeding CPI",
+            "benefit": "For the last 11 years wages have grown faster than inflation. Speaks for itself really.",
+            "url": "http://www.abs.gov.au/ausstats/abs@.nsf/mf/6345.0",
+            "tags": [
+                "economy"
+            ]
+        },
+        "produp": {
+            "what": "Increasing Productivity",
+            "tweet": "Increasing Productivity",
+            "benefit": "Australian economic productivity has continued to improve, meaning a higher standard of living for all Australians.",
+            "url": "http://www.rba.gov.au/speeches/2013/sp-dg-190313.html",
+            "tags": [
+                "economy"
+            ]
+        },
+        "comcon": {
+            "what": "Increasing Consumer Confidence",
+            "tweet": "Increasing Consumer Confidence",
+            "benefit": "The more confident we are at buying stuff, the more stuff we buy, and thus the more money we all make, or something like that.",
+            "url": "http://www.tradingeconomics.com/australia/consumer-confidence",
+            "tags": [
+                "economy"
+            ]
+        },
+        "foreigninvest": {
+            "what": "Record foreign investment",
+            "tweet": "Record foreign investment",
+            "benefit": "When overseas money floods in there’s more of it for us to use. We love foreign money, even though we still don’t seem to like foreigners themselves much. Can’t blame the Government for that though. We are a nation of racist dickheads much of the time.",
+            "url": "http://nprco.com.au/nprco-blog/2013/4/3/foreign-investment-in-australia-at-record-levels",
+            "tags": [
+                "economy"
+            ]
+        },
+        "china": {
+            "what": "Historic levels of Chinese / Australian bilateral relations",
+            "tweet": "Historic levels of Chinese / Australian bilateral relations",
+            "benefit": "China is our biggest trading partner and the growth of its economy is strongly linked to our own economic growth. We may not like what they’ve done to Tibet, but we’ll turn a blind eye to it if it’s going to keep making us money.",
+            "url": "http://www.confuciusinstitute.unsw.edu.au/celebrating-40-years-of-diplomatic-relations-between-australia-and-china/",
+            "tags": [
+                "trade"
+            ]
+        },
+        "fempm": {
+            "what": "Australia’s first female Prime Minister",
+            "tweet": "Australia’s first female Prime Minister",
+            "benefit": "Prime Minister Gillard has shown women all over the country that the glass ceiling can be shattered. And man has she copped shit for it. Her ascendancy has really brought the red-necks out of the woodwork, and she’s copped more abuse for being a woman than is fair.",
+            "url": "http://annesummers.com.au/speeches/her-rights-at-work-r-rated/",
+            "tags": [
+                "destroythejoint"
+            ]
+        },
+        "femgg": {
+            "what": "First female Governor General",
+            "tweet": "First female Governor General",
+            "benefit": "Quentin Bryce is the Queen’s representative in Australia, and has specific constitutional and statutory powers. Like Prime Minister Gillard, she has demonstrated to women and girls all over Australia that it is possible for a woman to achieve high office in this country.",
+            "url": "http://www.gg.gov.au/speech/address-governor-general-ms-quentin-bryce-ac-occasion-opening-first-session-forty-third",
+            "tags": [
+                "destroythejoint"
+            ]
+        },
+        "femag": {
+            "what": "First female Attorney General",
+            "tweet": "First female Attorney General",
+            "benefit": "Nicola Roxon was appointed as the country’s first female Attorney-General only last December, having spent four years running the $60 billion Health Department, and she wasted no time in embarking on a comprehensive agenda of reform, with an ambition to unleash a fairer Australia on the world, expanding civil rights, and reducing poverty and inequality.",
+            "url": "http://www.themonthly.com.au/issue/2012/june/1342583315/anne-summers/protector",
+            "tags": [
+                "destroythejoint"
+            ]
+        },
+        "forgot": {
+            "what": "The National Apology to Forgotten Australians and Former Child Migrants",
+            "tweet": "National Apology to Forgotten Australians & Former Child Migrants",
+            "benefit": "It is estimated that 500,000 children experienced institutional care in Australia in the twentieth century.  Many of these children were horribly mistreated, never achieved due justice as adults, and continue to suffer from debilitating depression and post-traumatic stress disorder, and remain financially and socially disenfranchised.",
+            "url": "http://www.fahcsia.gov.au/our-responsibilities/families-and-children/programs-services/apology-to-the-forgotten-australians-and-former-child-migrants",
+            "tags": null
+        },
+        "behremining1": {
+            "what": "Australia is now ranked as the number one country for mining investment",
+            "tweet": "Australia is now the number 1 country for mining investment",
+            "benefit": "Based on indicators such as political and economic risk, social issues, bureaucratic hassles, currency stability, and taxation policy, Behre Dolbear Group Inc now considers Australia to be the best place in the world for mining investment.",
+            "url": "http://www.dolbear.com/announcements/2013-ranking-of-countries-for-mining-investment-or-where-not-to-invest",
+            "tags": [
+                "economy"
+            ]
+        },
+        "free3": {
+            "what": "Australia is the third ‘most free’ nation in the Heritage Index of Economic Freedom",
+            "tweet": "Australia 3rd ‘most free’ nation in Heritage Index of Economic Freedom",
+            "benefit": "It’s easy, safe, and consequently cheaper to do business in Australia than almost anywhere else in the region.",
+            "url": "http://www.heritage.org/index/country/australia",
+            "tags": null
+        },
+        "blackrock": {
+            "what": "Australia now has the seventh least risky government to lend to in the world",
+            "tweet": "Australia now has the 7th least risky government to lend to in the world",
+            "benefit": "Risk is measured in dollars, and so, due to sound economic policy, our Government is considered one of the world’s best debtors. That means we can borrow money more cheaply, meaning we can invest more effectively in our own infrastructure.",
+            "url": "http://www.blackrock.com/corporate/en-us/literature/whitepaper/mapping-sovereign-risk-bsri-q4-update-us.pdf",
+            "tags": null
+        },
+        "forcedmarriage": {
+            "what": "Introduced laws to tackle forced marriage, people trafficking and other exploitation",
+            "tweet": "New laws to tackle forced marriage, people trafficking & other exploitation",
+            "benefit": "There is now a maximum penalty of 7 years jail for anyone trying to force vulnerable people into marriage. The laws also include a new standalone forced labour offence, which means that labour exploitation can be prosecuted wherever it occurs, including where the victim is not moved across a border.",
+            "url": "http://www.attorneygeneral.gov.au/Mediareleases/Pages/2013/First%20quarter/27February2013-Newlawstackleforcedmarriagepeopletraffickingandotherexploitation.aspx",
+            "tags": null
+        },
+        "butleryay": {
+            "what": "The Minister for Mental Health and Ageing (Butler), honoured with the Alzheimer’s Disease International Award",
+            "tweet": "Minister @Mark_Butler_MP awarded Alzheimer’s Disease International Award",
+            "benefit": "The work of The Minister for Mental Health and Ageing, Mark Butler, and his ongoing commitment to improving the lives of people living with dementia, has been recognised internationally. This boosts Australia’s international reputation and benefits us all.",
+            "url": "http://www.fightdementia.org.au/international-recognition-for-mark-butlers-dementia-leadership.aspx",
+            "tags": null
+        }
+    }
+}

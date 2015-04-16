@@ -1,0 +1,49 @@
+//
+// Prefix header for all source files of the 'WHTGED4U' target in the 'WHTGED4U' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import <CoreData/CoreData.h>
+	#define MR_SHORTHAND
+	#import "CoreData+MagicalRecord.h"
+#endif
+
+#define DEFINE_SHARED_INSTANCE_USING_BLOCK(block) \
+static dispatch_once_t pred = 0; \
+__strong static id _sharedObject = nil; \
+dispatch_once(&pred, ^{ \
+_sharedObject = block(); \
+}); \
+return _sharedObject; \
+
+#define kEnAchievement			@"Achievement"
+#define kEnTag					@"Tag"
+
+#define kA_achievements			@"achievements"
+#define kA_benefit				@"benefit"
+#define kA_like					@"like"
+#define kA_random				@"random"
+#define kA_reference			@"reference"
+#define kA_sortValue			@"sortValue"
+#define kA_tag					@"tag"
+#define kA_tags					@"tags"
+#define kA_tweet				@"tweet"
+#define kA_url					@"url"
+#define kA_what					@"what"
+
+#define kCreated_at				@"created_at"
+#define kLastUpdate				@"lastUpdate"
+#define kAchievements			@"achievements"
+
+#define kListIconBulletGrey		@"list-icon-bullet-grey"
+#define kListIconThumbUpBlue	@"list-icon-thumb-up-blue"
+#define kThumbUpBlue			@"thumb-up-blue"
+#define kThumbUpGrey			@"thumb-up-grey"

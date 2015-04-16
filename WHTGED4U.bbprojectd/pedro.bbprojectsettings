@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:pedro</key>
+	<false/>
+	<key>ExpandedEditorWidth:pedro:displays([(0, 0), (1920, 1080)])</key>
+	<integer>641</integer>
+	<key>ExpandedItems:pedro</key>
+	<array>
+		<string>FFB4A72A-8841-45F4-9E92-029C9FEE7349</string>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGuAAIAAQVBaXRuZQAAAAAAAAAAAAAAAAAAAAAAAAAAAADM
+			XeRuSCsAAAHBHPAJRGF0YU1vZGVsAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAb0T
+			0c3xNbsAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACFdI
+			VEdFRDRVABAACAAAzF1XzgAAABEACAAAzfCpGwAAAAEAHAHBHPAB
+			wRzrABbtDwAWm3IAFoIFABY2ZgAWJbEAAgBQQWl0bmU6VXNlcnM6
+			AHBlZHJvOgBEb2N1bWVudHM6AENvY29hRGV2OgBQcm9qZWN0czoA
+			V0hUR0VENFU6AFdIVEdFRDRVOgBEYXRhTW9kZWwADgAUAAkARABh
+			AHQAYQBNAG8AZABlAGwADwAMAAUAQQBpAHQAbgBlABIAQ1VzZXJz
+			L3BlZHJvL0RvY3VtZW50cy9Db2NvYURldi9Qcm9qZWN0cy9XSFRH
+			RUQ0VS9XSFRHRUQ0VS9EYXRhTW9kZWwAABMAAS8AABUAAgAM//8A
+			AA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/pedro/Documents/CocoaDev/Projects/WHTGED4U/WHTGED4U/DataModel/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>FileFilterID:pedro</key>
+	<string>msng</string>
+	<key>OpenDocuments:pedro</key>
+	<array/>
+	<key>ShowInvisibles:pedro</key>
+	<false/>
+	<key>ShowSCMData:pedro</key>
+	<false/>
+	<key>TextFilesOnly:pedro</key>
+	<true/>
+	<key>ToolbarVisible:pedro</key>
+	<true/>
+	<key>ViewSplitterPosition:pedro</key>
+	<real>0.25895953178405762</real>
+	<key>WindowFrame:pedro:displays([(0, 0), (1920, 1080)])</key>
+	<string>rect(44,0,1076,865)</string>
+</dict>
+</plist>
